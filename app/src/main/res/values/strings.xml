@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="sign_up">sign up</string>
+    <string name="login_here">login here</string>
+    <string name="signin">signin</string>
+    <string name="signuphere">signuphere</string>
+</resources>
